@@ -1,3 +1,10 @@
 .Project{
-    text-align: right;
+    text-align: left;
+    align-items: left;
+}
+
+.name{
+    text-align: left !important;
+    font-size: 9;
+    color: aquamarine !important;
 }
