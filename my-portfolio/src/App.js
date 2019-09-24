@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Hello! I am Milly Mason and Welcome to my online portfolio, currently WIP, but please find my work experience and projects below</p>
+        <p align="center">Hello! I am Milly Mason and Welcome to my online portfolio, currently WIP, but please find my work experience and projects below. Above is a picture of me and a 3D-printed Golang Gopher</p>
         <div className="Project">
         {/* possibly make another component to hold individual blocks of content workexp, proj, etc */}
         <WorkExp name="IBM" startDate="May 2019" endDate="Current" tech="React, Golang, IBM Cloud, JIRA, Postman" 
