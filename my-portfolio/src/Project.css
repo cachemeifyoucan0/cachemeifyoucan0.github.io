@@ -1,10 +1,17 @@
 .Project{
     text-align: left;
     align-items: left;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
-.name{
+.date{
     text-align: left !important;
     font-size: 9;
-    color: aquamarine !important;
+    color: grey !important;
+}
+
+.dev{
+    text-align: left !important;
+    font-size: 9;
+    color:rosybrown !important;
 }
